@@ -1,0 +1,6 @@
+3
+Gaussian-Jordan
+3*a + 2*b + c - 6
+a + 5*b + 3*c - 28
+3*a + 1*b + 13*c - 76
+1 0 1
